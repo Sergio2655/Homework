@@ -5,8 +5,10 @@
 
 Console.WriteLine("Please, enter your number:");
 int n = int.Parse(Console.ReadLine());
-Console.WriteLine("Got it)");
+Console.WriteLine("+++++++++++++");
+Console.WriteLine("Got it :)");
 Console.WriteLine("Here we go");
+Console.WriteLine("+++++++++++++");
 if(n % 2 ==0)
 {
     while(n > 1)
